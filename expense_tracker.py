@@ -24,7 +24,7 @@ def load_from_file():
     except FileNotFoundError:
         print("No saved expenses found.")
 
-add_expense("Food", 150)
+add_expense("Food", 45)
 add_expense("Travel", 50)
 view_total()
 save_to_file()
