@@ -1,1 +1,1 @@
-to track expenses is main aim 
+simple program for expense tracker
